@@ -18,7 +18,7 @@ title: Попов Н.А.
 ### контакты
 <div id="webaddress">
 <a href="tel:+79112365105">+7 (911) 236-51-05</a>
-<a href="mailto:mrpopoff@mail.ru">mrpopoff@mail.ru</a>
+ | <a href="mailto:mrpopoff@mail.ru">mrpopoff@mail.ru</a>
 </div>
 
 ## Образование
