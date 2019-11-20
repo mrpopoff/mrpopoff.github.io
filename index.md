@@ -1,82 +1,56 @@
 ---
-layout: Резюме
+layout: cv
 title: Попов Н.А.
 ---
 # Попов Никита Александрович
-системный аналитик / архитектор ит систем / ведущий разработчик.
+системный аналитик / архитектор ит систем / ведущий разработчик
 
+Возраст: 40 лет
+
+
+## Контакты
+197349, г. Санкт-Петербург, пр. Сизова д. 32 к. 1 кв. 620 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">n.popov.79@gmail.com</a>
+<a href="n.popov.79@gmail.com">n.popov.79@gmail.com</a>
++7 (911) 236-51-05
 </div>
 
+## Текущее место работы
 
-## Currently
+`2012 - настоящее время`
+ООО «МТС Информационные Технологии»
 
-Standing on the shoulders of giants
+- старший архитектор
+- ведущий инженер-разработчик
 
-### Specialized in
+### Навыки и умения
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+blah-blah-blah
 
 
-## Education
+### Области интересов
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+blah-blah-blah
 
 
+## Образование
 
-## Awards
+`1995-2001`
+__Санкт-Петербургский государственный электротехнический университет «ЛЭТИ»__
+
+- диплом инженера
+
+
+## Предыдущие места работы
 
 `2012`
-President, *Royal Society*, London, UK
+__ЗАО «ОВИО Солюшнс»__
 
-Associate, *French Academy of Science*, Paris, France
+- ведущий инженер-разработчик
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
+Проекты: система "Паспорт дома" (портальное решение для создания единой базы абонентских данных и поддержки продаж услуг МГТС)
+Зоны ответственности: проектирование и разработка WEB интерфейса пользователя
+Технологии: Microsoft .NET Framework 3.5, MVC, Ajax, WCF, SQL Server
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
@@ -84,7 +58,4 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+Last updated: 2019.20.11 -->
