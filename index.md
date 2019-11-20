@@ -125,7 +125,7 @@ __ОАО «Ладога телеком»__, инженер
 - UML
 
 ### Языки программирования
-- Java
+- Java (Spring, OSGi)
 - Python
 - С#
 - C++ (MFC, STL , ATL, WTL)
