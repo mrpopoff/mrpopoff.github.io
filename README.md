@@ -187,4 +187,4 @@ __ОАО «Ладога телеком»__, инженер
 Linix, Windows
 
 <!-- ### Footer
-Last updated: 2019.20.11 -->
+Last updated: June 2021 -->
